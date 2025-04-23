@@ -1,16 +1,57 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ToDoApp 📝
 
-Currently, two official plugins are available:
+This is a simple and beautiful ToDo application built with **React.js**.  
+It allows users to add tasks, mark them complete, undo/redo changes, search tasks, and drag & drop to reorder them! 🎯
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features:
+- Add and delete tasks
+- Mark tasks as completed
+- Undo and redo actions
+- Drag and drop tasks to reorder
+- Search tasks
+- Dark/Light Mode toggle
+- Fetch sample tasks from API
+- Save tasks to local storage
+- You can Do every task In Capital Letter .
+- A simple UpperCase button with All ToDo Tasks
+- A UpperCase button For all tasks with make all tasks Uppercase 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ToDoApp-
->>>>>>> c01c9ba4e0f236fa1bb0e763b85d30d4af2e747f
+---
+
+## 🔥 Tech Stack:
+- React.js
+- Axios
+- @hello-pangea/dnd (Drag & Drop)
+- SweetAlert2 (for alert popups)
+- JavaScript
+- Html 
+  Css 
+
+---
+
+## 📦 Installation
+
+First, clone the repository:
+
+```bash
+git clone https://github.com/shuklarishabh482/ToDoApp.git
+cd ToDoWork
+npm install
+npm  run dev 
+http://localhost:5173
+
+
+
+
+
+ Future Improvements : 
+
+Add a progress Bar it shows how much percent you have done your work 
+Add filters for completed and pending tasks
+make Ui/Ux Animations great
+
+My Name : Jyotishwar Raj Shukla 
+
