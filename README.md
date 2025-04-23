@@ -17,9 +17,14 @@ It allows users to add tasks, mark them complete, undo/redo changes, search task
 - Save tasks to local storage
 - You can Do every task In Capital Letter .
 - A simple UpperCase button with All ToDo Tasks
-- A UpperCase button For all tasks with make all tasks Uppercase 
+- A UpperCase button For all tasks with make all tasks Uppercase
 
 ---
+Challenges : I have felt lots of challenges to create this project when We Create a Undo and redo button for Undoing and redoing your task then my undo button
+still working but my redo button is not working I can resolve this with a useEffect () .
+And also I felt challenges in making SearchBar Where I thinks how can I create SearchBar And After that I will solve it .
+And also in Api error Handling things 
+
 
 ## 🔥 Tech Stack:
 - React.js
