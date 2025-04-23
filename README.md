@@ -38,7 +38,7 @@ First, clone the repository:
 
 ```bash
 git clone https://github.com/shuklarishabh482/ToDoApp-.git
-cd ToDoWork
+cd ToDoApp-
 npm install
 npm  run dev 
 http://localhost:5173
