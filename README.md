@@ -37,7 +37,7 @@ It allows users to add tasks, mark them complete, undo/redo changes, search task
 First, clone the repository:
 
 ```bash
-git clone https://github.com/shuklarishabh482/ToDoApp.git
+git clone https://github.com/shuklarishabh482/ToDoApp-.git
 cd ToDoWork
 npm install
 npm  run dev 
